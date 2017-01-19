@@ -1,8 +1,12 @@
 <?php
 /**
  * The template for displaying comments
+<<<<<<< HEAD
  * The template for displaying comments
  * The template for displaying comments
+=======
+  		* The template for displaying comments
+>>>>>>> origin/master
  *
  * This is the template that displays the area of the page that contains both the current comments
  * and the comment form.
